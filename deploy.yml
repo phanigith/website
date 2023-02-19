@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: phanidocker557/project
+        image: phanidocker557/project2
         ports:
         - containerPort: 80
