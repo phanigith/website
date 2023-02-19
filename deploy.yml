@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: veer2/test8
+        image: phanidocker557/project2
         ports:
         - containerPort: 80
